@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## alx-frontend-javascript
-=======
 <h2>0x02. ES6 classes</h2>
 
 <h3>Learning Objectives</h3>
@@ -12,4 +9,3 @@
     <li>How to extend a class from another</li>
     <li>Metaprogramming and symbols</li>
 </ol>
->>>>>>> task 1
